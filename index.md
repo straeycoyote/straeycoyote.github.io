@@ -1,12 +1,19 @@
-## Welcome to GitHub Pages
+## OVERLAWRD
 
-You can use the [editor on GitHub](https://github.com/straeycoyote/straeycoyote.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### message
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a message from the one and only overlawrd. Those who read this must have incredible fret about the rare species of so called "walking sticks" that roam the Earth. No one is concerning themselves with this terrible threat and it must be adresssed. 
 
-### Markdown
+ps. watch out for a person named hecker, u cant trust him. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### experimental web//:
+
+  overlawrd will take over. 
+  
+  <iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/black-maps/1547899806?i=1547899808"></iframe>
+
+
 
 ```markdown
 Syntax highlighted code block
